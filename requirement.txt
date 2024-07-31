@@ -3,5 +3,4 @@ scikit-learn
 pandas
 numpy
 matplotlib
-spacy
-spacy-th
+transformers torch
